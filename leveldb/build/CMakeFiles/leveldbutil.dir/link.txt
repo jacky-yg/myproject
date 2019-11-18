@@ -1,0 +1,1 @@
+/usr/bin/c++   -fno-exceptions -fno-rtti  -O0 -Wall -g2 -ggdb   CMakeFiles/leveldbutil.dir/db/leveldbutil.cc.o  -o leveldbutil libleveldb.a /usr/lib/libisal_crypto.a -lpthread 
